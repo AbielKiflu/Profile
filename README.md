@@ -40,6 +40,6 @@ But at the end of the day one guy corrected me and I shocked when he told me tha
 
 
 
-[ previous ] ()  Abel Kiflu [ next ] () 
+[ previous ] (GitHub - ZhenyaG7/Learning-git)  Abel Kiflu [ next ] (https://github.com/aloiszweber) 
  
 
