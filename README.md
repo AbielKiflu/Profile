@@ -9,10 +9,10 @@
 
 | 	  |		|
 | --- | --- |
-| Birthday | 15'/09/1994 |
+| Birthday | 15/09/1994 |
 | Favorite Color | Blue |
 | Favorite food | Shiro |
-| Pinnaple on Pizza | [x] |
+| Pinnaple on Pizza | [] |
 
 
 ##### Hobbies
