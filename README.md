@@ -12,7 +12,7 @@
 | Birthday | 15/09/1994 |
 | Favorite Color | Blue |
 | Favorite food | Shiro |
-| Pinnaple on Pizza | - [x]  Yes/No |
+| Pinnaple on Pizza | - [ x ]  Yes/No |
 
 
 ##### Hobbies
@@ -22,13 +22,13 @@
 - Sculpture
 - Reading
 - Movies
-	- Silicon valley :joy:
+	- Silicon valley
 	- Money Hiest
 	- Prison Break
 	- Gilmore girls
 
 
-##### Funny story
+##### Funny story :joy:
 
 One day I was looking for a tissue(handkerchief) in my job.  everyone spoke french. I was trying to practice it. 
 I mispronounced the word mouchoir(tissue) with mâchoire(Jaw). people confused and  I surprised they didn't understand it.
