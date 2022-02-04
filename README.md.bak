@@ -12,7 +12,7 @@
 | Birthday | 15/09/1994 |
 | Favorite Color | Blue |
 | Favorite food | Shiro |
-| Pinnaple on Pizza |  - [x]  Yes/No |
+| Pinnaple on Pizza | - [x]  Yes/No |
 
 
 ##### Hobbies
@@ -22,7 +22,7 @@
 - Sculpture
 - Reading
 - Movies
-	- Silicon valley
+	- Silicon valley :joy:
 	- Money Hiest
 	- Prison Break
 	- Gilmore girls
