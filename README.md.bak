@@ -7,8 +7,7 @@
 
 #### I live in Herve. I am studying in Becode.
 
-| 	  |		|
-| --- | --- |
+ 
 | Birthday | 15/09/1994 |
 | Favorite Color | Blue |
 | Favorite food | Shiro |
