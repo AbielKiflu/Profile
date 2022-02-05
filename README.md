@@ -19,6 +19,8 @@
 
 - Hiking
 - Music
+	- The weeknd
+	- Lana del ray
 - Sculpture
 - Reading
 - Movies
