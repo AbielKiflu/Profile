@@ -12,7 +12,7 @@
 | Birthday | 15/09/1994 |
 | Favorite Color | Black and Blue |
 | Favorite food | Pizza |
-| Pinnaple on Pizza |  - [x] yes - [ ] No |
+| Pinnaple on Pizza | No |
 
 
 ##### Hobbies
