@@ -6,8 +6,8 @@ To go to my Github profile click [here](https://github.com/AbielKiflu)
 
 #### List of Project Source code.
 
-1. Netflix clone ***vue3*** [goto](https://github.com/AbielKiflu/netflix)
-2. RealEstate ***Dotnet core*** [goto](https://github.com/AbielKiflu/RealEstate)
+1. Netflix clone ***vue3*** [here](https://github.com/AbielKiflu/netflix)
+2. RealEstate ***Dotnet core*** [here](https://github.com/AbielKiflu/RealEstate)
 3. coming soon ...
 
 
