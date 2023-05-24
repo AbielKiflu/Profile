@@ -2,7 +2,7 @@
 
 *Aim for the moon. If you miss, you may hit a star*
 
-Going to my [Github](https://github.com/AbielKiflu)
+To go to my Github profile click [here](https://github.com/AbielKiflu)
 
 #### List of Project Source code.
 
